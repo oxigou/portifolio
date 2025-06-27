@@ -17,16 +17,16 @@
   }
 
 
-  img {
-      display: block;
-      margin-left: auto;
-      margin-right: 10%;
-      width: 300px;
-      height: auto;
-      border-radius: 90%;
-      border: solid 10px;
-      color: blueviolet;
-  }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: 10%;
+    width: 280px;
+    height: auto;
+    height: 300px;
+    border-radius: 100%;
+    border: solid rebeccapurple 10px;
+}
 
 
   .estudante {
