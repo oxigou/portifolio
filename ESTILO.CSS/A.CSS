@@ -26,6 +26,7 @@ img {
     height: 300px;
     border-radius: 100%;
     border: solid rebeccapurple 10px;
+    margin-top: 13%;
 }
 
 
@@ -62,12 +63,13 @@ img {
   .mim {
       font-size: 30px;
       text-align: center;
+      margin-top: -4%
 
   }
 
   .bla {
-      margin-top: 2%;
-      margin-bottom: 10%;
+      margin-top: 0%;
+      margin-bottom: 5%;
       display: block;
       font-size: 24px;
       font-family: initial;
