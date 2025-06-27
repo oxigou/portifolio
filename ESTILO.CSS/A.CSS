@@ -179,3 +179,8 @@
       background: rgb(196, 184, 184);
       color: rgb(19, 134, 67);
   }
+/* Permite rolagem horizontal */
+html, body {
+  overflow-x: auto; /* ou scroll */
+  min-width: 900px; /* largura mínima igual a largura do seu site no PC */
+}
